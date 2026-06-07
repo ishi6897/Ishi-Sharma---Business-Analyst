@@ -16,6 +16,7 @@ Business Analyst with 4+ years of experience in:
 
 ### BRD
 BRD/Equipment Rental Management Platform- BRD.pdf
+https://github.com/ishi6897/Ishi-Sharma---Business-Analyst/blob/b51940f00b68be9f34f20c31fc57f337df9922a6/BRD/Equipment%20Rental%20Management%20Platform-%20BRD.pdf
 
 ### FRD
 Sample Functional Requirement Documents
