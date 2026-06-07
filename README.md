@@ -15,7 +15,7 @@ Business Analyst with 4+ years of experience in:
 ## Repository Contents
 
 ### BRD
-Sample Business Requirement Documents
+BRD/Equipment Rental Management Platform- BRD.pdf
 
 ### FRD
 Sample Functional Requirement Documents
