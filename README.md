@@ -82,3 +82,22 @@ Artifacts:
 - Test Cases
 - UAT
 - RTM
+
+## Deliverables Included
+- BRD
+- FRD
+- User Stories
+- Acceptance Criteria
+- Test Cases
+- UAT Scenarios
+- RTM
+- Process Flows
+
+## Tools & Methodologies
+- Jira
+- Confluence
+- Postman
+- SQL
+- Agile Scrum
+- Microsoft Office Suite
+- API Testing
