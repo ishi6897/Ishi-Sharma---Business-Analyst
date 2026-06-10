@@ -1,38 +1,84 @@
-# Ishi-Sharma---Business-Analyst
-Sample BRDs, FRDs, User Stories, Test Cases, and Process Flows
 # Business Analyst Portfolio
 
-Hello, I'm Ishi Sharma.
+Hi, I'm Ishi Sharma.
 
 Business Analyst with 4+ years of experience in:
+
 - Requirement Gathering
-- BRD & FRD Documentation
+- BRD / FRD Documentation
+- Agile Scrum
 - User Stories
+- Acceptance Criteria
 - Process Mapping
-- UAT & QA Testing
-- Agile Methodology
+- Functional Testing
+- UAT
+- Defect Management
+- API Testing
+- Project Coordination
 
-## Repository Contents
+## Portfolio Projects
 
-### BRD
- (https://github.com/ishi6897/Ishi-Sharma---Business-Analyst/blob/b51940f00b68be9f34f20c31fc57f337df9922a6/BRD/Equipment%20Rental%20Management%20Platform-%20BRD.pdf)
+### 1. SkyRide Operations Management System
+Domain: Travel & Tourism
 
-### FRD
-Sample Functional Requirement Documents
+Modules:
+- Login
+- Dashboard
+- Manifest Management
+- Passenger Management
+- Payment Management
+- Trip Management
+- Weather Cancellation
 
-### User Stories
-Agile user stories with acceptance criteria
+Artifacts:
+- BRD
+- FRD
+- User Stories
+- Acceptance Criteria
+- Test Cases
+- UAT
+- RTM
 
-### Test Cases
-Sample QA test cases
+---
 
-### Process Flows
-Business process and workflow diagrams
+### 2. Equipment Rental Management System
+Domain: Equipment Rental
 
-## Tools
-- Jira
-- Confluence
-- Figma
-- Postman
-- SQL
-- Microsoft Office Suite
+Modules:
+- Equipment Search
+- Product Details
+- Cart
+- Checkout
+- Rental Pricing
+
+Artifacts:
+- BRD (https://github.com/ishi6897/Ishi-Sharma---Business-Analyst/blob/b51940f00b68be9f34f20c31fc57f337df9922a6/BRD/Equipment%20Rental%20Management%20Platform-%20BRD.pdf)
+- FRD
+- User Stories
+- Acceptance Criteria
+- Test Cases
+- UAT
+- RTM
+
+---
+
+### 3. Retail Sales & Customer Order Management System
+Domain: Retail
+
+Modules:
+- Customer Management
+- Product Search
+- Shopping Basket
+- Discounts
+- Loyalty Vouchers
+- Payments
+- Order Processing
+
+Artifacts:
+- BRD
+- FRD
+- User Stories
+- Acceptance Criteria
+- Test Cases
+- UAT
+- RTM
