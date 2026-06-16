@@ -17,7 +17,7 @@ A mobile application designed to assist drivers in managing passenger transporta
 - Weather Cancellation
 
 ## Artifacts Included
-- BRD
+- [BRD](https://github.com/ishi6897/Ishi-Sharma---Business-Analyst/blob/d0ea9d942b43053f089184a4b756278912a8e44e/Project-01-SkyRide-Operations-Management-System/Documents/1.%20BRD_SkyRide%20Operations%20Management%20System.docx)
 - FRD
 - User Stories
 - RTM
