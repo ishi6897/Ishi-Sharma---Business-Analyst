@@ -1,6 +1,5 @@
-Documentation
-│
-├── BRD
-├── FRD
-├── User-Stories
-└── RTM
+Documentation-
+1. [BRD_Equipment Rental Management Platform.pdf](https://github.com/ishi6897/Ishi-Sharma---Business-Analyst/blob/47bc130c6b1c85d7e8f3179fe00bacc6ff6fa445/Project-02-Equipment-Rental-Management-System/Documents/1.%20BRD_Equipment%20Rental%20Management%20Platform.pdf)
+2. [FRD_Equipment Rental Management Platform.pdf](https://github.com/ishi6897/Ishi-Sharma---Business-Analyst/blob/47bc130c6b1c85d7e8f3179fe00bacc6ff6fa445/Project-02-Equipment-Rental-Management-System/Documents/2.%20FRD_Equipment%20Rental%20Management%20Platform.pdf)
+3. [User Story_Equipment Rental Management Platform.pdf](https://github.com/ishi6897/Ishi-Sharma---Business-Analyst/blob/47bc130c6b1c85d7e8f3179fe00bacc6ff6fa445/Project-02-Equipment-Rental-Management-System/Documents/3.%20User%20Story_Equipment%20Rental%20Management%20Platform.pdf)
+4. [RTM_Equiment Rental.pdf](https://github.com/ishi6897/Ishi-Sharma---Business-Analyst/blob/47bc130c6b1c85d7e8f3179fe00bacc6ff6fa445/Project-02-Equipment-Rental-Management-System/Documents/4.%20RTM_Equiment%20Rental.pdf)
