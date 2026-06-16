@@ -31,14 +31,13 @@ Traditional equipment rental processes often involve manual inventory checks, ph
 - Order Confirmation
 
 ## Artifacts Included
-- BRD
-- FRD
-- User Stories
-- Acceptance Criteria
-- Test Cases
-- UAT Scenarios
-- RTM
-- Process Flows
+- [BRD](https://github.com/ishi6897/Ishi-Sharma---Business-Analyst/blob/47bc130c6b1c85d7e8f3179fe00bacc6ff6fa445/Project-02-Equipment-Rental-Management-System/Documents/1.%20BRD_Equipment%20Rental%20Management%20Platform.pdf)
+- [FRD](https://github.com/ishi6897/Ishi-Sharma---Business-Analyst/blob/47bc130c6b1c85d7e8f3179fe00bacc6ff6fa445/Project-02-Equipment-Rental-Management-System/Documents/2.%20FRD_Equipment%20Rental%20Management%20Platform.pdf)
+- [User Stories](https://github.com/ishi6897/Ishi-Sharma---Business-Analyst/blob/47bc130c6b1c85d7e8f3179fe00bacc6ff6fa445/Project-02-Equipment-Rental-Management-System/Documents/3.%20User%20Story_Equipment%20Rental%20Management%20Platform.pdf)
+- [RTM](https://github.com/ishi6897/Ishi-Sharma---Business-Analyst/blob/47bc130c6b1c85d7e8f3179fe00bacc6ff6fa445/Project-02-Equipment-Rental-Management-System/Documents/4.%20RTM_Equiment%20Rental.pdf)
+- [Test Cases](https://github.com/ishi6897/Ishi-Sharma---Business-Analyst/blob/9e74e118c1ac39a0d80add0e2cf552b7f860f4d7/Project-02-Equipment-Rental-Management-System/Testing/1.%20Test%20Case_Equipment%20Rental%20Management%20Platform.pdf)
+- [UAT](https://github.com/ishi6897/Ishi-Sharma---Business-Analyst/blob/9e74e118c1ac39a0d80add0e2cf552b7f860f4d7/Project-02-Equipment-Rental-Management-System/Testing/2.%20UAT_Checklist.pdf)
+- [Post Deployment Vslidation Checklist](https://github.com/ishi6897/Ishi-Sharma---Business-Analyst/blob/9e74e118c1ac39a0d80add0e2cf552b7f860f4d7/Project-02-Equipment-Rental-Management-System/Testing/3.%20Post%20Deployment%20Validation%20Checklist.pdf)
 
 ## Sample User Journey
 Search Equipment
