@@ -1,2 +1,5 @@
 ## Documentation-
 1. [BRD_SkyRide Operations Management System.pdf](https://github.com/ishi6897/Ishi-Sharma---Business-Analyst/blob/47bc130c6b1c85d7e8f3179fe00bacc6ff6fa445/Project-02-Equipment-Rental-Management-System/Documents/1.%20BRD_Equipment%20Rental%20Management%20Platform.pdf)
+2. [FRD_Equipment Rental Management Platform.pdf](https://github.com/ishi6897/Ishi-Sharma---Business-Analyst/blob/47bc130c6b1c85d7e8f3179fe00bacc6ff6fa445/Project-02-Equipment-Rental-Management-System/Documents/2.%20FRD_Equipment%20Rental%20Management%20Platform.pdf)
+3.  [RTM_Equiment Rental.pdf](https://github.com/ishi6897/Ishi-Sharma---Business-Analyst/blob/47bc130c6b1c85d7e8f3179fe00bacc6ff6fa445/Project-02-Equipment-Rental-Management-System/Documents/4.%20RTM_Equiment%20Rental.pdf)
+4. [User Story_Equipment Rental Management Platform.pdf](https://github.com/ishi6897/Ishi-Sharma---Business-Analyst/blob/47bc130c6b1c85d7e8f3179fe00bacc6ff6fa445/Project-02-Equipment-Rental-Management-System/Documents/3.%20User%20Story_Equipment%20Rental%20Management%20Platform.pdf)
